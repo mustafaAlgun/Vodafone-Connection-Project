@@ -10,3 +10,7 @@ Students are supposed to work together to produce a short report (the first 15 m
 The code and the results should be included in a jupyter notebook, properly commented (just like a laboratory report) so it can be understood without a person explaining it, and including the results (plots, tables, etc.).
 
 The notebook has to be committed with all the cells executed.
+
+# Project Details
+
+The solution commented in detail can be found in "HLP_Final_Project.ipynb" Jupyter Notebook file.
